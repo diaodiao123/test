@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
 
 version = "1.0.0"
-group="com.github.diaodiao123"
+group='com.github.diaodiao123'
 
 android {
     compileSdkVersion 28
